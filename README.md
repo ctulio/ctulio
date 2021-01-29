@@ -1,5 +1,12 @@
-### Hi there 👋
+## Olar 👋, eu sou  o César Túlio
+---
+### Interessado em ciências e tecnologias em geral
+### Aqui você encontra os repositórios de projetos diversos, uns relevantes outros nem tanto.
+<br>
 
+- 📝  Mais informações em [ctulio.dev.br](http://ctulio.dev.br) (em construção)
+- 🌱 Atualmente, aprendendo sobre ciência de dados, inteligência artificial, machine learning e business intelligence. 
+- 📫 Entre em contato: cesar-tulio arroba hotmail ponto com
 <!--
 **ctulio/ctulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
