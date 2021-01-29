@@ -1,4 +1,4 @@
-## Olar 👋, eu sou  o César Túlio
+## Olar 👋
 ---
 ### Interessado em ciências e tecnologias em geral
 ### Aqui você encontra os repositórios de projetos diversos, uns relevantes outros nem tanto.
