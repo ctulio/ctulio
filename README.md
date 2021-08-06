@@ -1,6 +1,5 @@
 ## Olar 👋
 ---
-### Interessado em ciências e tecnologias em geral
 ### Aqui você encontra os repositórios de projetos diversos envolvendo principalmente python, machine learning e data science, uns relevantes outros nem tanto.
 <br>
 
