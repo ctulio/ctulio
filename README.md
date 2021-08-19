@@ -1,4 +1,6 @@
 ## Olar 👋
+[![Linkedin Badge](https://img.shields.io/badge/-cesartulio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesartulio//)](https://www.linkedin.com/in/cesartulio/)
+
 ---
 ### Aqui você encontra os repositórios de projetos diversos envolvendo principalmente python, machine learning e data science, uns relevantes outros nem tanto.
 <br>
