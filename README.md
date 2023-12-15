@@ -5,7 +5,8 @@
 ### Aqui você encontra os repositórios de projetos diversos envolvendo principalmente python, machine learning e data science, uns relevantes outros nem tanto.
 <br>
 
-- 🌱 Atualmente, aprendendo sobre ciência de dados, inteligência artificial, machine learning e business intelligence. 
+- 🌱 Interesse em ciência de dados, inteligência artificial, machine learning e business intelligence.
+- 🔭 Atualmente envolvido com cibersegurança
 - 📫 Entre em contato: cesar-tulio arroba hotmail ponto com
 - 📝  Mais informações em [ctulio.dev.br](http://ctulio.dev.br) (em construção)
 <!--
